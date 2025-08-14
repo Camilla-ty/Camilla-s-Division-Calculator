@@ -1,4 +1,4 @@
-# 🧮 Camilla's Division Calculator
+# Camilla's Division Calculator
 
 A React-based division calculator designed for students to practice division with whole numbers, featuring quotient and remainder calculations.
 

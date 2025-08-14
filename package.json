@@ -1,6 +1,7 @@
 {
   "name": "division-calculator",
   "version": "1.0.0",
+  "homepage": "https://camilla-ty.github.io/Camilla-s-Division-Calculator",
   "description": "A React division calculator component",
   "main": "index.js",
   "scripts": {
